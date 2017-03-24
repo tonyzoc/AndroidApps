@@ -1,0 +1,7 @@
+#Thu Mar 23 16:53:37 EDT 2017
+base.0=C\:\\Users\\azocc\\Documents\\Android Apps\\android-hello-world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ca8d52d30fa69cf1dcf92a2956f95a473d97cc4b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\azocc\\Documents\\Android Apps\\android-hello-world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22a70ab14b4614a5c9b2d4dfd72bfc06fa062d44\\classes.dex
+base.1=C\:\\Users\\azocc\\Documents\\Android Apps\\android-hello-world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22a70ab14b4614a5c9b2d4dfd72bfc06fa062d44
+file.0=C\:\\Users\\azocc\\Documents\\Android Apps\\android-hello-world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ca8d52d30fa69cf1dcf92a2956f95a473d97cc4b\\classes.dex
